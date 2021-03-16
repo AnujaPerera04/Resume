@@ -7,6 +7,9 @@ h1 {
 body {
 	text-align: left;
 }
+h2 {
+	color: DarkGreen; 
+}
 /*
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -22,5 +25,4 @@ body {
   width:888; 
 }
 */ 
-
 
