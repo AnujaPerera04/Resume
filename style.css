@@ -4,14 +4,14 @@ h1 {
 	background-color: DarkGreen;
 	font-size: 50px;  
 }
+
 body {
 	text-align: left;
-}
-h2 {
-	color: DarkGreen; 
+	font-size: 20px; 
+	
 }
 
-h3 {
+h2 {
 	color: DarkGreen; 
 }
 
@@ -30,4 +30,5 @@ h3 {
   width:888; 
 }
 */ 
+
 
