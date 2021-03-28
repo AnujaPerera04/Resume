@@ -1,18 +1,41 @@
 /*   CSS Document  */ 
-h1 {
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #3D3D3D ; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+
+
+
+
+h1.header {
 	color: #ECE9E1; 
 	font-size: 60px;  
 	font-weight: bold;
 	background-color: #3D3D3D; 
 	
+	
 }
+
+
+
+
 ul {
 	list-style-type: circle;
 }
 
 img {
 		border-radius: 50%;
-		margin-left: 50px; 
+		margin-left: 50px;
+		margin-top: 15px; 
 	}
 
 body {
