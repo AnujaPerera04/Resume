@@ -12,8 +12,22 @@
   padding-top: 20px;
 }
 
+h3 {
+  font-size: 26px;
+}
 
+h4 {
+  font-size: 16px;
+  color: #3D3D3D ; 
+}
 
+h3, h4 {
+  width: 50%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}​
 
 
 h1.header {
