@@ -17,7 +17,6 @@
 	overflow-x: hidden;
 	/* Disable horizontal scroll */
 	padding-top: 20px;
-	
 }
 
 h1.header {
@@ -33,7 +32,7 @@ h3 {
 
 h4 {
 	font-size: 16px;
-	color: #3D3D3D;
+	color: #616161;
 }
 
 h3,
